@@ -1,0 +1,5 @@
+{
+  "name": "App",
+  "displayName": "ملاحة بحرية",
+  "android": {"packageName": "l.com"}
+}
